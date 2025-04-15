@@ -31,13 +31,4 @@ Proyek ini berhasil:
 - Mengidentifikasi ambang batas di mana diskon mengikis margin
 - Menyoroti kombinasi risiko tinggi (misalnya SMB + CLV rendah + transaksi besar)
 - Ilustrasi kinerja melalui heatmap pada segmen × CLV × ukuran transaksi
-- Mengembangkan strategi diskon berjenjang dan bersyarat berdasarkan data riil
-- Penjelasan tentang anomali untuk menghindari salah tafsir
-
-Temuan utama adalah:
-- Diskon di atas 45% sering kali menyebabkan kerugian  
-- Pelanggan dengan CLV tinggi tidak kebal terhadap transaksi yang buruk ketika ukuran transaksi dan diskon terakumulasi sehingga tetap dibutuhkan batas atas yang konkrit
-- Beberapa segmen, industri, dan wilayah (UKM/SMB, Tech, wilayah APJ) membutuhkan batas diskon yang lebih ketat  
-
-
-
+- Mengembangkan strategi diskon berjenjang dan bersyarat
