@@ -1,6 +1,4 @@
-# Capstone-2
-
-# Optimalisasi Diskon guna Memaksimalkan Laba Perusahaan (Case Study SaaS) 
+# Capstone-2 Optimalisasi Diskon guna Memaksimalkan Laba Perusahaan (Case Study SaaS) 
 
 ## Latar Belakang
 SaaS (perangkat lunak sebagai layanan) adalah model bisnis yang mendistribusikan perangkat lunak melalui internet, dengan fokus pada penyediaan layanan berkualitas tinggi kepada pelanggan. Keberhasilannya bergantung pada konsistensi produk dan harga, efisiensi operasional, strategi negosiasi harga, dan loyalitas pelanggan. Diskon adalah pendorong yang kuat dalam strategi penjualan dan pendapatan tersebut, jika digunakan dengan benar, diskon dapat meningkatkan konversi, loyalitas pelanggan, dan pangsa pasar. Namun, diskon yang tidak terstruktur atau berlebihan sering kali menyebabkan erosi margin, praktik penetapan harga yang tidak konsisten, dan masalah profitabilitas jangka panjang. Proyek ini menyelidiki perilaku diskon di berbagai segmen pelanggan, industri, produk, dan tingkat nilai (CLTV) di berbagai wilayah untuk mengembangkan kebijakan diskon yang terukur dan berbasis data.
